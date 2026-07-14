@@ -1,0 +1,5 @@
+.env
+.env.local
+.venv/*
+.deepeval/
+.deepeval_cache.json
