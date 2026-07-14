@@ -3,12 +3,7 @@ import requests
 from langchain_core.documents import Document
 from dotenv import load_dotenv
 
-
-
 # load_dotenv()
-
-
-
 
 # Below is a minimal helper for demonstration purposes.
 def load_web_page(url: str, bs_kwargs: dict | None = None) -> list[Document]:
